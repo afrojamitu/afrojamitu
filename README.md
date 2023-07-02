@@ -1,6 +1,6 @@
 ![I am a Jr Frontend Developer](https://media.licdn.com/dms/image/D5616AQGzYdUjejOgbg/profile-displaybackgroundimage-shrink_350_1400/0/1688328142447?e=1694044800&v=beta&t=tE3jZ-AqE4W_UFTOjcy_FusFQV_0hiTCxnf-HHsnq3w)
 
-![I am a Jr Frontend Developer]([https://media.licdn.com/dms/image/D5616AQGzYdUjejOgbg/profile-displaybackgroundimage-shrink_350_1400/0/1688328142447?e=1694044800&v=beta&t=tE3jZ-AqE4W_UFTOjcy_FusFQV_0hiTCxnf-HHsnq3w](https://i.ibb.co/jLmSJKc/Github-cover-for-me.png))
+![I am a Jr Frontend Developer]([https://media.licdn.com/dms/image/D5616AQGzYdUjejOgbg/profile-displaybackgroundimage-shrink_350_1400/0/1688328142447?e=1694044800&v=beta&t=tE3jZ-AqE4W_UFTOjcy_FusFQV_0hiTCxnf-HHsnq3w](https://i.ibb.co/jLmSJKc/Github-cover-for-me.png)
 
 ### Hi there 👋, my name is Afroja Akther Mitu
 #### I am a Jr Frontend Developer
