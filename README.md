@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Afroja Akther Mitu
+### Hello, my name is Afroja Akther Mitu
 #### I am a Jr Frontend Developer
 ![I am a Jr Frontend Developer](https://i.ibb.co/jLmSJKc/Github-cover-for-me.png)
 
