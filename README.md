@@ -6,7 +6,7 @@ Hello!
 Myself Afroja Akther Mitu. Currently I'm studying Diploma in Computer Engineering. I'm a Frontend Developer. I started learning Web Design about 3 years ago. I'm a professionally trained Front-End Web Developer. Also I'm a Junior Full Stack Developer with MERN Stack Development I find web development as the opportunity to express my creativity by creating responsive & playful websites.
 Let me know if you have any curiosity or any kind of issue's relevant to my skill's. I'm ready to help you with that!
 
-For learning purpose you can visit my YouTube channel : https://www.youtube.com/@LearnWithAfrojaa
+For learning purpose you can visit my YouTube channel : https://www.youtube.com/@LearnWithAfrojaa .
 Here I provide web development related tutorials. Feel free to subscribe my channel.
 
 Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap | Javascript | React.js | MongoDB |  Express.js | Firebase | GitHub | Netlify | Vercel | AOS Animation | React-Hook-Form | Axios
