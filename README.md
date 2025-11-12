@@ -1,20 +1,8 @@
-### Hello, my name is Afroja Akther Mitu
-#### I am a Web Developer in MERN stack development
-![I am a Jr Frontend Developer](https://i.ibb.co/jLmSJKc/Github-cover-for-me.png)
+I’m Afroja Akther Mitu, a Diploma Engineering graduate in Computer Science and Technology, currently pursuing my BSc in CSE at East Delta University, Chittagong.
 
-Hello!
-Myself Afroja Akther Mitu. Currently I'm studying Diploma in Computer Engineering. I'm a Frontend Developer. I started learning Web Design about 3 years ago. I'm a professionally trained Front-End Web Developer. Also I'm a Junior Full Stack Developer with MERN Stack Development I find web development as the opportunity to express my creativity by creating responsive & playful websites.
-Let me know if you have any curiosity or any kind of issue's relevant to my skill's. I'm ready to help you with that!
+I’m an expert Web Application Developer using React.js & Next.js and a WordPress Website Developer, skilled in Elementor, Elementor Pro, WooCommerce, Tutor LMS, LearnDash, ACF, Crocoblock, and more. I create functional, user-friendly, and visually appealing websites with clean, modern designs—delivering high-quality work on time. With my expertise and experience I am able to deliver my clients quality work within a short time.
 
-
-Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap | Javascript | React.js | MongoDB |  Express.js | Firebase | GitHub | Netlify | Vercel | AOS Animation | React-Hook-Form | Axios
-
-- 🌱 I’m currently learning I’m currently learning Next.js, Redux, GSAP.  
-- 💬 Ask me about Ask me about anything relevant to my skill's.  
-- 📫 How to reach me: How to reach me: Send message through my website contact form.  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afrojamitu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afroja-mitu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/afrojaakther.mitu.733)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afroja-akther-mitu.web.app/)  
+Additionally, I’m a Digital Marketer with strong SEO expertise. I specialize in driving organic growth, improving search rankings, and boosting online visibility through data-driven strategies tailored to business goals.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrojamitu)](https://github.com/anuraghazra/github-readme-stats)
 
